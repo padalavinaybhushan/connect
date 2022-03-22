@@ -24,9 +24,9 @@ function App() {
       
       {/* <Navbar/> */}
       <Route exact path="/" component={Home} />
-      <Route exact path="/" component={Team} />
-      <Route exact path="/" component={Aboutp} />
-      <Route exact path="/" component={Events} />
+      <Route exact path="#" component={Team} />
+      <Route exact path="#" component={Aboutp} />
+      <Route exact path="#" component={Events} />
     </div>
   );
 }
