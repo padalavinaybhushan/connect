@@ -7,10 +7,10 @@ const Shop = () => {
         <div className="shop__text">
           <div>
             <h1 className="Annoucement"> ANNOUCEMENT </h1>
-            <h3>SnackDown <span className="Annoucement">Live</span> now.</h3>
+            <h3>Join our <span className="Annoucement">Community </span> now.</h3>
             <div className="shop__btn">
-              <a href="https://snackdown.codechef.com/registration?ref=pvb_007" className="btn btn-smart">
-                Participate Now
+              <a href="#" className="btn btn-smart">
+                Join Now
               </a>
             </div>
           </div>

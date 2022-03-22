@@ -4,7 +4,7 @@ const Prices = () => {
   return (
     <div className="prices">
       <div className="container">
-      <h1 className="CHAPTERLEAD">CHAPTER LEADERS</h1>
+      <h1 className="CHAPTERLEAD">FEEDBACK</h1>
         <div className="row">
         
           <div className="col-3">
@@ -13,7 +13,7 @@ const Prices = () => {
               <div class="image">
               <img class="image__img" src="/img/men.jpg" alt="Bricks"/>
                 <div class="image__overlay image__overlay--primary">
-              <div class="image__title">ROLE NAME</div>
+              <div class="image__title">Farmer</div>
                 <p class="image__description">
                 Nullam nibh sem, imperdiet ultrices commodo a, vulputate vel
                 ligula. Duis venenatis at eros sed egestas. Mauris rutrum quam
@@ -37,7 +37,7 @@ const Prices = () => {
               <div class="image">
               <img class="image__img" src="/img/men.jpg" alt="Bricks"/>
                 <div class="image__overlay image__overlay--primary">
-              <div class="image__title">ROLE NAME</div>
+              <div class="image__title">Customer</div>
                 <p class="image__description">
                 Nullam nibh sem, imperdiet ultrices commodo a, vulputate vel
                 ligula. Duis venenatis at eros sed egestas. Mauris rutrum quam
@@ -60,7 +60,7 @@ const Prices = () => {
               <div class="image">
               <img class="image__img" src="/img/men.jpg" alt="Bricks"/>
                 <div class="image__overlay image__overlay--primary">
-              <div class="image__title">ROLE NAME</div>
+              <div class="image__title">Farmer</div>
                 <p class="image__description">
                 Nullam nibh sem, imperdiet ultrices commodo a, vulputate vel
                 ligula. Duis venenatis at eros sed egestas. Mauris rutrum quam
@@ -84,7 +84,7 @@ const Prices = () => {
               <div class="image">
               <img class="image__img" src="/img/men.jpg" alt="Bricks"/>
                 <div class="image__overlay image__overlay--primary">
-              <div class="image__title">ROLE NAME</div>
+              <div class="image__title">Customer</div>
                 <p class="image__description">
                 Nullam nibh sem, imperdiet ultrices commodo a, vulputate vel
                 ligula. Duis venenatis at eros sed egestas. Mauris rutrum quam

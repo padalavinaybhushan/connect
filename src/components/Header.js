@@ -13,7 +13,6 @@ const Header = () => {
             <h3 className="header-back-grd">SNIST Innovation.</h3>
             <h3 className="header-back-grd2"><u className='u'>Connection </u> between farmer and customer.</h3>
             <p>
-          
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
               minus ut mollitia error molestiae quia.
             </p>

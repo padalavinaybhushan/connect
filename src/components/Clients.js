@@ -8,19 +8,19 @@ const Clients = () => {
           <div className="col-4">
             <div className="client">
               <h1>40+</h1>
-              <p>Board Members</p>
+              <p>Cities Integrated</p>
             </div>
           </div>
           <div className="col-4">
             <div className="client">
-              <h1>20+</h1>
-              <p>Events</p>
+              <h1>2000+</h1>
+              <p>Farmers</p>
             </div>
           </div>
           <div className="col-4">
             <div className="client">
-              <h1>10+</h1>
-              <p>Contests</p>
+              <h1>10,000+</h1>
+              <p>Solutions</p>
             </div>
           </div>
           {/* <div className="col-3">

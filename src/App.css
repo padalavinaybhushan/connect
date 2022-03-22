@@ -169,7 +169,7 @@ body {
 }
 .shop {
   width: 100%;
-  background: url("img/announcementbg2.jpeg");
+  background: url("img/annoucementbg2.jpeg");
   filter: brightness(90%);
   /* background-color: black; */
   /* height: 450px;
@@ -179,6 +179,7 @@ body {
   position: relative;
 
 }
+
 .shop__text {
   height: 450px;
   display: flex;
@@ -187,6 +188,7 @@ body {
   justify-content: center;
   margin: 0 auto;
   color: #fff;
+  
 }
 .shop__text h1 {
   font-size: 40px;
@@ -197,12 +199,13 @@ body {
 }
 .shop__btn {
   margin-top: 35px;
+  padding-left: 5em;
 }
 
 .clients {
   width: 100%;
   padding: 100px 0;
-  background: url("img/techy.jpg");
+  background: url("img/tem.jpeg");
   filter: brightness(90%);
   background-repeat: no-repeat;
   background-size: cover;
@@ -335,7 +338,7 @@ body {
 }
 
 .Annoucement{
-  color: green;
+  color: #ff9966;
 }
 
 .footerlogo{

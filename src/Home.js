@@ -11,9 +11,8 @@ import Footer from "./components/Footer";
 function Home(){
     return(
         <div>
+        <div class = "marquee-class"><marquee behavior="alternate">YOU FARM - WE SELL</marquee></div>
             <Header />
-            <div class = "marquee-class"><marquee behavior="alternate">Bounce back and forth</marquee></div>
-            
             <About />
             <Shop />
             <Menu />

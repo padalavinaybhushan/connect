@@ -9,12 +9,12 @@ const Footer = () => {
       <div class="container">
         <div class="row1">
           <div class="col-sm-12 col-md-6">
-          <img src="/img/vector.png" alt="logo" className="footerlogo"/>
+          <img src="/img/logo.png" alt="logo" className="footerlogo"/>
             <h6>About</h6>
-            <p class="text-justify">codechef.com <i>CODE WANTS TO BE SIMPLE </i> CodeChef-SNIST is a non-commercial organisation with a goal to provide a platform for programmers and developers everywhere to meet, compete & have fun. At CodeChef-SNIST, we believe in the words of Matt Mullenweg - “Technology is best when it brings people together”.</p>
+            <p class="text-justify">connect.com This website belongs to Department of Agriculture & Cooperation and Farmers Welfare,</p>
           </div>
 
-          <div class="col-xs-6 col-md-3">
+          {/* <div class="col-xs-6 col-md-3">
             <h6>Categories</h6>
             <ul class="footer-links">
               <li><a href="http://scanfcode.com/category/c-language/">C</a></li>
@@ -24,7 +24,7 @@ const Footer = () => {
               <li><a href="http://scanfcode.com/category/android/">Android</a></li>
               <li><a href="http://scanfcode.com/category/templates/">Templates</a></li>
             </ul>
-          </div>
+          </div> */}
 
           <div class="col-xs-6 col-md-3">
             <h6>Quick Links</h6>
@@ -44,7 +44,7 @@ const Footer = () => {
         <div class="row1">
           <div class="col-md-8 col-sm-6 col-xs-12">
             <p class="copyright-text">Copyright &copy; 2021 All Rights Reserved by 
-         <a href="#">codechefsnist.com</a>.
+         <a href="#">  connect.com</a>
             </p>
           </div>
 
